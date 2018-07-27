@@ -1,0 +1,11 @@
+{
+    "name": "rafaelaffonsor/pool",
+    "description": "Voucher pool test",
+    "authors": [
+        {
+            "name": "Rafael Affonso Rodrigues",
+            "email": "rafael_affonsor@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
