@@ -7,5 +7,9 @@
             "email": "rafael_affonsor@yahoo.com.br"
         }
     ],
-    "require": {}
+    "require": {
+        "slim/slim": "^3.0",
+        "php-di/php-di": "^6.0",
+        "php-di/slim-bridge": "^2.0"
+    }
 }
